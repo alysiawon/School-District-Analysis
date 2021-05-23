@@ -68,19 +68,19 @@ This pushes Thomas High School closer to the 3rd-5th place schools, that all ran
 
 **How does replacing the ninth-grade scores affect the following:**
 
-**1. Math and reading scores by grade**
+1. **Math and reading scores by grade**
     
     On the math and reading scores by grade DataFrames, the only difference is that Thomas High School ninth grader math and reading scores do not have a value. All other data from other schools and grades remain the same. 
 
-**2. Scores by school spending**
+2. **Scores by school spending**
 
     There is no change in the scores by school spending. 
 
-**3. Scores by school size**
+3. **Scores by school size**
 
     There is no change in the scores by the school size. 
 
-**4. Scores by school type**
+4. **Scores by school type**
 
     There is no change in the scores by school type. 
 
