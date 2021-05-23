@@ -56,6 +56,8 @@ This is the altered data including students from grade 9-12:
 This is the altered data including students from only grade 10-12:
 <img src="Analysis/School_Summary_New_Excl9thGrade.png" width="600">
 
+### Performance Analysis
+
 **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
 
 In the original and new dataset based on the % Overall Passing score, Thomas High School was ranked 2nd out of the 15 schools.
@@ -69,12 +71,15 @@ This pushes Thomas High School closer to the 3rd-5th place schools, that all ran
 On the math and reading scores by grade DataFrames, the only difference is that Thomas High School ninth grader math and reading scores do not have a value. All other data from other schools and grades remain the same. 
 
 **2. Scores by school spending**
+
 There is no change in the scores by school spending. 
 
 **3. Scores by school size**
+
 There is no change in the scores by the school size. 
 
 **4. Scores by school type**
+
 There is no change in the scores by school type. 
 
 ## Summary
