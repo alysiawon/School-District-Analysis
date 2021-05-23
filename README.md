@@ -15,10 +15,10 @@ The data preparation utilizes Pandas and Jupyter to perform calculations and ana
 After altering the data to disregard the reading and math grades from Thomas High School ninth graders, the overall district summary was only slightly affected. 
 
 This is the original data:
-<img src="DistrictSummary_Original.png" width="400">
+<img src="Analysis/DistrictSummary_Original.png" width="400">
 
 This is the altered data:
-<img src="DisctrictSummary_New.png" width="400">
+<img src="Analysis/DisctrictSummary_New.png" width="400">
 
 The Average Math Score, % Passing Math, % Passing Reading and % Overall Passing decreased by 0.1% to 0.3%. Whereas the Average Reading Score was not affected. 
 
@@ -29,10 +29,10 @@ All school data remained the same except for Thomas High School. The Average Mat
 The % Passing Math, % Passing Reading and % Overall Passing are also barely effected and only changing by 0.1-0.3%
 
 This is the original data:
-<img src="SchoolSummary_Original.png" width="400">
+<img src="Analysis/SchoolSummary_Original.png" width="400">
 
 This is the altered data:
-<img src="SchoolSummary_New.png" width="400">
+<img src="Analysis/SchoolSummary_New.png" width="400">
 
 **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
 
@@ -43,9 +43,20 @@ In the original dataset, the % Overall Passing score was 90.95%, whereas in the 
 This pushes Thomas High School closer to the 3rd-5th place schools, that all range from 90.54% to 90.60%.
 
 **How does replacing the ninth-grade scores affect the following:**
-Math and reading scores by grade
-Scores by school spending
-Scores by school size
-Scores by school type
+**1. Math and reading scores by grade**
+On the math and reading scores by grade DataFrames, the only difference is that Thomas High School ninth grader scores do not have a value. All other data from other schools and grades remain the same. 
+
+**2. Scores by school spending**
+There is no change in the scores by school spending. 
+
+**3. Scores by school size**
+There is no change in the scores by the school size. 
+
+**4. Scores by school type**
+There is no change in the scores by school type. 
 
 ## Summary
+
+After completing the analysis, these are the four major changes in the updated school district analysis after the reading and math scores for the ninth grade at Thomas High School have been replaced: 
+
+1. 
