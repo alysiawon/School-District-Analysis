@@ -8,7 +8,7 @@ The data provided will be analyzed and presented to provide insights about perfo
 
 ## School District Analysis Results
 
-The data preparation utilizes Pandas and Jupyter to perform calculations and analysis by creating DataFrames and various functions to explore the data. This create multiple DataFrames to use for future analysis. Insight are generated on the <a href="PyCitySchools_Challenge.ipynb">PyCitySchools analysis</a>. 
+The data preparation utilizes Pandas and Jupyter to perform calculations and analysis by creating DataFrames and various functions to explore the data. This create multiple DataFrames to use for future analysis. Insight are generated on the <a href="PyCitySchools_Challenge.ipynb">new PyCitySchools analysis</a>. 
 
 ### District Summary
 
