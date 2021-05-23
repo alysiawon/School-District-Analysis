@@ -4,11 +4,11 @@
 
 The purpose of this project is to re-analyze the student funding and student standardize test scores due to evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders. This analysis will be used to inform discussions and strategic decisions at the school and district level. 
 
-The data provided will be analyzed and presented to provide insights about performance, trends and patterns in comparison to the <a href="Resource/PyCitySchools.ipynb">original analysis</a>. 
+The data provided will be analyzed and presented to provide insights about performance, trends and patterns in comparison to the <a href="Resource/PyCitySchools.ipynb">original PyCitySchool analysis</a>. 
 
 ## School District Analysis Results
 
-The data preparation utilizes Pandas and Jupyter to perform calculations and analysis by creating DataFrames and various functions to explore the data. This create multiple DataFrames to use for future analysis. Insight are generated on the <a href="PyCitySchools_Challenge.ipynb">PyCitySchools script</a>. 
+The data preparation utilizes Pandas and Jupyter to perform calculations and analysis by creating DataFrames and various functions to explore the data. This create multiple DataFrames to use for future analysis. Insight are generated on the <a href="PyCitySchools_Challenge.ipynb">PyCitySchools analysis</a>. 
 
 ### District Summary
 
