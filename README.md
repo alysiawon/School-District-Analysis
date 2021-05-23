@@ -47,6 +47,7 @@ Then after adjusting the DataFrame to only consider the upper year students (gra
 - % Overall Passing: The scores moved from 90.95 to 90.63% (-0.32% change).
 
 This is the original data:
+
 <img src="Analysis/SchoolSummary_Original.png" width="400">
 
 This is the altered data including students from grade 9-12:
