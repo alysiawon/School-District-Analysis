@@ -14,11 +14,11 @@ The data preparation utilizes Pandas and Jupyter to perform calculations and ana
 
 After altering the data to disregard the reading and math grades from Thomas High School ninth graders, the overall district summary was only slightly affected. 
 
-- Average Math Score: The scores moved from 79.0% to 78.9% (-0.1% change).
-- Average Reading Score: The scores did not change.
-- % Passing Math: The scores moved from 75.0% to 74.8% (-0.2% change).
-- % Passing Reading: The scores moved from 85.8% to 85.7% (-0.1% change).
-- % Overall Passing: The scores moved from 65.2% to 64.9% (-0.3% change).
+- **Average Math Score:** The scores moved from 79.0% to 78.9% (-0.1% change).
+- **Average Reading Score:** The scores did not change.
+- **% Passing Math:** The scores moved from 75.0% to 74.8% (-0.2% change).
+- **% Passing Reading:** The scores moved from 85.8% to 85.7% (-0.1% change).
+- **% Overall Passing:** The scores moved from 65.2% to 64.9% (-0.3% change).
 
 This is the original data:
 
@@ -33,18 +33,18 @@ This is the altered data:
 All school data remained the same except for Thomas High School. For this analysis, we will only be focusing on Thomas High School, since the other schools are not effected. 
 
 After adjusting the scores to alter the ninth grade data, this is how Thomas High School's school performance was:
-- Average Math Score: The scores moved from 83.42% to 83.35% (-0.07% change).
-- Average Reading Score: The scores moved from 83.85% to 83.89% (+0.04% change).
-- % Passing Math: The scores moved from 83.27% to 66.91% (-16.36% change).
-- % Passing Reading: The scores moved from 97.30% to 69.66% (-27.64% change).
-- % Overall Passing: The scores moved from 90.95 to 65.08% (-25.87% change).
+- **Average Math Score:** The scores moved from 83.42% to 83.35% (-0.07% change).
+- **Average Reading Score:** The scores moved from 83.85% to 83.89% (+0.04% change).
+- **% Passing Math:** The scores moved from 83.27% to 66.91% (-16.36% change).
+- **% Passing Reading:** The scores moved from 97.30% to 69.66% (-27.64% change).
+- **% Overall Passing:** The scores moved from 90.95 to 65.08% (-25.87% change).
 
 Then after adjusting the DataFrame to only consider the upper year students (grade 10, 11, 12), this is the results:
-- Average Math Score: The scores moved from 83.42% to 83.35% (-0.07% change).
-- Average Reading Score: The scores moved from 83.85% to 83.89% (+0.04% change).
-- % Passing Math: The scores moved from 83.27% to 93.19% (+9.92% change).
-- % Passing Reading: The scores moved from 97.30% to 97.02% (-0.28 change).
-- % Overall Passing: The scores moved from 90.95 to 90.63% (-0.32% change).
+- **Average Math Score:** The scores moved from 83.42% to 83.35% (-0.07% change).
+- **Average Reading Score:** The scores moved from 83.85% to 83.89% (+0.04% change).
+- **% Passing Math:** The scores moved from 83.27% to 93.19% (+9.92% change).
+- **% Passing Reading:** The scores moved from 97.30% to 97.02% (-0.28 change).
+- **% Overall Passing:** The scores moved from 90.95 to 90.63% (-0.32% change).
 
 This is the original data:
 
