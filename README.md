@@ -22,11 +22,11 @@ After altering the data to disregard the reading and math grades from Thomas Hig
 
 This is the original data:
 
-<img src="Analysis/DistrictSummary_Original.png" width="400">
+<img src="Analysis/DistrictSummary_Original.png" width="600">
 
 This is the altered data:
 
-<img src="Analysis/DisctrictSummary_New.png" width="400">
+<img src="Analysis/DisctrictSummary_New.png" width="600">
 
 ### School Level Summary
 
@@ -48,13 +48,13 @@ Then after adjusting the DataFrame to only consider the upper year students (gra
 
 This is the original data:
 
-<img src="Analysis/SchoolSummary_Original.png" width="400">
+<img src="Analysis/SchoolSummary_Original.png" width="600">
 
 This is the altered data including students from grade 9-12:
-<img src="Analysis/SchoolSummary_New_Incl9thGrade.png" width="400">
+<img src="Analysis/SchoolSummary_New_Incl9thGrade.png" width="600">
 
 This is the altered data including students from only grade 10-12:
-<img src="Analysis/School_Summary_New_Excl9thGrade.png" width="400">
+<img src="Analysis/School_Summary_New_Excl9thGrade.png" width="600">
 
 **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
 
