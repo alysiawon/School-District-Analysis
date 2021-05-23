@@ -10,17 +10,29 @@ The various data provided will be analyzed and presented to provide insights abo
 
 The data preparation utilizes Pandas and Jupyter to perform calculations and analysis by creating DataFrames and various functions to explore the data. This helped to create multiple DataFrames to use for future analysis. Insight are generated on the <a href="PyCitySchools_Challenge.ipynb">PyCitySchools script</a>. 
 
+### District Summary
+
 **How is the district summary affected?**
 
 After altering the data to disregard the reading and math grades from Thomas High School ninth graders, the overall district summary was only slightly affected. 
 
+- Average Math Score: The scores moved from 79.0% to 78.9% (0.1% change).
+- Average Reading Score: The scores did not change.
+- % Passing Math: The scores moved from 75.0% to 74.8%.
+- % Passing Reading: The scores moved from 85.8% to 85.7%.
+- % Overall Passing: The scores moved from 65.2% to 64.9%.
+
 This is the original data:
+
 <img src="Analysis/DistrictSummary_Original.png" width="400">
 
 This is the altered data:
+
 <img src="Analysis/DisctrictSummary_New.png" width="400">
 
 The Average Math Score, % Passing Math, % Passing Reading and % Overall Passing decreased by 0.1% to 0.3%. Whereas the Average Reading Score was not affected. 
+
+### School Level Summary
 
 **How is the school summary affected?**
 
